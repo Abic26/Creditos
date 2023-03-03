@@ -1,0 +1,56 @@
+.container{
+    
+    background-color: rgba(209, 207, 207, 0.767);
+    padding: 10px;
+    margin-top: 150px;
+    align-items: center;
+    width: 600px;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.199);
+}
+h1{
+    background: linear-gradient(90deg,#8d1905,#b42006 25%,#eb2a08);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2px;
+    padding: 5px;
+    color: white;
+    
+}
+
+#nombre{
+    width: 100%;
+}
+.credito{
+    width: 49%;
+    height: 30px;
+    float: left;
+    margin-top: 5px;
+}
+#cuota{
+    width: 49%;
+    float: right;    
+    margin-top: 5px;
+}
+#valCre{
+    width: 49%;
+    float: right;    
+    margin-top: 5px;
+}
+.btn{
+    width: 104.5%;
+    margin-left: -11px;
+    border: none;
+    
+}
+.calCre{
+    background-color: #8d1905;
+    border-radius: 5px;
+    color: white;
+}
+.calCre:hover{
+    box-shadow:10px 5px 5px rgba(0, 0, 0, 0.171);;
+    background-color: #da2808
+}
+
+
